@@ -1,2 +1,3 @@
-# gerador_cpf_python
-Gerador e validador de cpf 
+# Gerador de CPF
+Esse gerador permite gerar aleatoriamente um ou varios cpf válidos
+Também é possivel verificar se um cpf é valdio
